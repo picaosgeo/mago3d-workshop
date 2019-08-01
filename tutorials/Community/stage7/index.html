@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+	<!-- Use correct character set. -->
+	<meta charset="utf-8">
+	<!-- Tell IE to use the latest, best version. -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<!-- Make the application on mobile take up the full browser screen and disable user scaling. -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+	<title>Mago3D Workshop</title>
+	<link rel="stylesheet" href="/js/mago3d/Widgets/widgets.css" />
+	<link rel="stylesheet" href="/css/workshop.css" />
+</head>
+<body>
+<div style="text-align: center; padding-bottom: 10px;">
+	<form id="apiForm" name="apiForm" action="" onsubmit="return false;">
+		<span style="padding-right: 20px;">PointCloud Color Toggle</span>
+		<input type="radio" id="showPcNatural" name="pcColor" checked value="true" onclick="togglePointCloud();" />
+		<label for="showPcNatural"> natural </label>
+		<input type="radio" id="showPcRainbow" name="pcColor" value="false" onclick="togglePointCloud();" />
+		<label for="showPcRainbow"> rainbow </label>
+	</form>
+</div>
+<div id="magoContainer"></div>
+<canvas id="objectLabel"></canvas>
+<!-- script -->
+<script type="text/javascript" src="/js/mago3d/Cesium.js"></script>
+<script type="text/javascript" src="/js/mago3d/mago3d.js"></script>
+<script type="text/javascript" src="/js/init.js"></script>
+<script>
+	var imageryProvider = new Cesium.ArcGisMapServerImageryProvider({
+		url: 'https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer',
+		enablePickFeatures: false
+	});
+	var terrainProvider = new Cesium.EllipsoidTerrainProvider();
+	var options = {imageryProvider : imageryProvider, animation:false, timeline:false, fullscreenButton:false};
+</script>
+<script>
+	var managerFactory;
+
+	options.policyUrl = "./persistence/workshop-policy.json";
+	options.dataBaseUrl = "./persistence/";
+	options.imageBaseUrl = "./images/";
+
+	var mago = new Mago3D.Mago3D('magoContainer', options);
+	mago.on("finished", function () {
+		managerFactory = this.getManagerFactory();
+	});
+	mago.start();
+
+	// 포인트클라우드 색상타입 변경
+	function togglePointCloud() {
+		togglePointCloudColorAPI(managerFactory);
+	}
+</script>
+</body>
+</html>

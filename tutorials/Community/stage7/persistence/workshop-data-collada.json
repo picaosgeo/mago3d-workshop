@@ -1,0 +1,319 @@
+{
+  "attributes": {
+    "isPhysical": false,
+    "nodeType": " root ",
+    "projectType": "DAE",
+    "specularLighting": false
+  },
+  "children": [
+    {
+      "attributes": {
+        "isPhysical": true,
+        "nodeType": "DAE",
+        "flipYTexCoords": true
+      },
+      "children": [],
+      "data_group_id": 78,
+      "data_group_name": "DAE",
+      "mapping_type": "origin",
+      "data_name": "Tile_+000_+000_+000",
+      "heading": 0,
+      "height": 39.0,
+      "data_key": "DAE_Tile_+000_+000_+000",
+      "latitude": 37.3677658743137,
+      "longitude": 127.9265465225572,
+      "pitch": 0,
+      "roll": 0
+    },
+    {
+      "attributes": {
+        "isPhysical": true,
+        "nodeType": "DAE",
+        "flipYTexCoords": true
+      },
+      "children": [],
+      "data_group_id": 78,
+      "data_group_name": "DAE",
+      "mapping_type": "origin",
+      "data_name": "Tile_+000_+001_+000",
+      "heading": 0,
+      "height": 39.0,
+      "data_key": "DAE_Tile_+000_+001_+000",
+      "latitude": 37.36929009635181,
+      "longitude": 127.926565268462,
+      "pitch": 0,
+      "roll": 0
+    },
+    {
+      "attributes": {
+        "isPhysical": true,
+        "nodeType": "DAE",
+        "flipYTexCoords": true
+      },
+      "children": [],
+      "data_group_id": 78,
+      "data_group_name": "DAE",
+      "mapping_type": "origin",
+      "data_name": "Tile_+000_+002_+000",
+      "heading": 0,
+      "height": 39.0,
+      "data_key": "DAE_Tile_+000_+002_+000",
+      "latitude": 37.37100182489643,
+      "longitude": 127.9265863221361,
+      "pitch": 0,
+      "roll": 0
+    },
+    {
+      "attributes": {
+        "isPhysical": true,
+        "nodeType": "DAE",
+        "flipYTexCoords": true
+      },
+      "children": [],
+      "data_group_id": 78,
+      "data_group_name": "DAE",
+      "mapping_type": "origin",
+      "data_name": "Tile_+000_+003_+000",
+      "heading": 0,
+      "height": 39.0,
+      "data_key": "DAE_Tile_+000_+003_+000",
+      "latitude": 37.37253392902175,
+      "longitude": 127.9266051680066,
+      "pitch": 0,
+      "roll": 0
+    },
+    {
+      "attributes": {
+        "isPhysical": true,
+        "nodeType": "DAE",
+        "flipYTexCoords": true
+      },
+      "children": [],
+      "data_group_id": 78,
+      "data_group_name": "DAE",
+      "mapping_type": "origin",
+      "data_name": "Tile_+001_+000_+000",
+      "heading": 0,
+      "height": 39.0,
+      "data_key": "DAE_Tile_+001_+000_+000",
+      "latitude": 37.36774954061163,
+      "longitude": 127.9286290824626,
+      "pitch": 0,
+      "roll": 0
+    },
+    {
+      "attributes": {
+        "isPhysical": true,
+        "nodeType": "DAE",
+        "flipYTexCoords": true
+      },
+      "children": [],
+      "data_group_id": 78,
+      "data_group_name": "DAE",
+      "mapping_type": "origin",
+      "data_name": "Tile_+001_+001_+000",
+      "heading": 0,
+      "height": 39.0,
+      "data_key": "DAE_Tile_+001_+001_+000",
+      "latitude": 37.36927376175452,
+      "longitude": 127.9286478704871,
+      "pitch": 0,
+      "roll": 0
+    },
+    {
+      "attributes": {
+        "isPhysical": true,
+        "nodeType": "DAE",
+        "flipYTexCoords": true
+      },
+      "children": [],
+      "data_group_id": 78,
+      "data_group_name": "DAE",
+      "mapping_type": "origin",
+      "data_name": "Tile_+001_+002_+000",
+      "heading": 0,
+      "height": 39.0,
+      "data_key": "DAE_Tile_+001_+002_+000",
+      "latitude": 37.37098548929376,
+      "longitude": 127.9286689714661,
+      "pitch": 0,
+      "roll": 0
+    },
+    {
+      "attributes": {
+        "isPhysical": true,
+        "nodeType": "DAE",
+        "flipYTexCoords": true
+      },
+      "children": [],
+      "data_group_id": 78,
+      "data_group_name": "DAE",
+      "mapping_type": "origin",
+      "data_name": "Tile_+001_+003_+000",
+      "heading": 0,
+      "height": 39.0,
+      "data_key": "DAE_Tile_+001_+003_+000",
+      "latitude": 37.37251759251916,
+      "longitude": 127.9286878596809,
+      "pitch": 0,
+      "roll": 0
+    },
+    {
+      "attributes": {
+        "isPhysical": true,
+        "nodeType": "DAE",
+        "flipYTexCoords": true
+      },
+      "children": [],
+      "data_group_id": 78,
+      "data_group_name": "DAE",
+      "mapping_type": "origin",
+      "data_name": "Tile_+002_+000_+000",
+      "heading": 0,
+      "height": 39.0,
+      "data_key": "DAE_Tile_+002_+000_+000",
+      "latitude": 37.36773268162283,
+      "longitude": 127.9307737295145,
+      "pitch": 0,
+      "roll": 0
+    },
+    {
+      "attributes": {
+        "isPhysical": true,
+        "nodeType": "DAE",
+        "flipYTexCoords": true
+      },
+      "children": [],
+      "data_group_id": 78,
+      "data_group_name": "DAE",
+      "mapping_type": "origin",
+      "data_name": "Tile_+002_+001_+000",
+      "heading": 0,
+      "height": 39.0,
+      "data_key": "DAE_Tile_+002_+001_+000",
+      "latitude": 37.36925690184172,
+      "longitude": 127.9307925609142,
+      "pitch": 0,
+      "roll": 0
+    },
+    {
+      "attributes": {
+        "isPhysical": true,
+        "nodeType": "DAE",
+        "flipYTexCoords": true
+      },
+      "children": [],
+      "data_group_id": 78,
+      "data_group_name": "DAE",
+      "mapping_type": "origin",
+      "data_name": "Tile_+002_+002_+000",
+      "heading": 0,
+      "height": 39.0,
+      "data_key": "DAE_Tile_+002_+002_+000",
+      "latitude": 37.37096862834324,
+      "longitude": 127.9308137106083,
+      "pitch": 0,
+      "roll": 0
+    },
+    {
+      "attributes": {
+        "isPhysical": true,
+        "nodeType": "DAE",
+        "flipYTexCoords": true
+      },
+      "children": [],
+      "data_group_id": 78,
+      "data_group_name": "DAE",
+      "mapping_type": "origin",
+      "data_name": "Tile_+002_+003_+000",
+      "heading": 0,
+      "height": 39.0,
+      "data_key": "DAE_Tile_+002_+003_+000",
+      "latitude": 37.37250073063978,
+      "longitude": 127.9308326424296,
+      "pitch": 0,
+      "roll": 0
+    },
+    {
+      "attributes": {
+        "isPhysical": true,
+        "nodeType": "DAE",
+        "flipYTexCoords": true
+      },
+      "children": [],
+      "data_group_id": 78,
+      "data_group_name": "DAE",
+      "mapping_type": "origin",
+      "data_name": "Tile_+003_+000_+000",
+      "heading": 0,
+      "height": 39.0,
+      "data_key": "DAE_Tile_+003_+000_+000",
+      "latitude": 37.36771624848812,
+      "longitude": 127.9328594574784,
+      "pitch": 0,
+      "roll": 0
+    },
+    {
+      "attributes": {
+        "isPhysical": true,
+        "nodeType": "DAE",
+        "flipYTexCoords": true
+      },
+      "children": [],
+      "data_group_id": 78,
+      "data_group_name": "DAE",
+      "mapping_type": "origin",
+      "data_name": "Tile_+003_+001_+000",
+      "heading": 0,
+      "height": 39.0,
+      "data_key": "DAE_Tile_+003_+001_+000",
+      "latitude": 37.36924046780635,
+      "longitude": 127.9328783310616,
+      "pitch": 0,
+      "roll": 0
+    },
+    {
+      "attributes": {
+        "isPhysical": true,
+        "nodeType": "DAE",
+        "flipYTexCoords": true
+      },
+      "children": [],
+      "data_group_id": 78,
+      "data_group_name": "DAE",
+      "mapping_type": "origin",
+      "data_name": "Tile_+003_+002_+000",
+      "heading": 0,
+      "height": 39.0,
+      "data_key": "DAE_Tile_+003_+002_+000",
+      "latitude": 37.37095219329636,
+      "longitude": 127.9328995281323,
+      "pitch": 0,
+      "roll": 0
+    },
+    {
+      "attributes": {
+        "isPhysical": true,
+        "nodeType": "DAE",
+        "flipYTexCoords": true
+      },
+      "children": [],
+      "data_group_id": 78,
+      "data_group_name": "DAE",
+      "mapping_type": "origin",
+      "data_name": "Tile_+003_+003_+000",
+      "heading": 0,
+      "height": 39.0,
+      "data_key": "DAE_Tile_+003_+003_+000",
+      "latitude": 37.37248429468751,
+      "longitude": 127.9329185023621,
+      "pitch": 0,
+      "roll": 0
+    }
+  ],
+  "parent": 0,
+  "depth": 1,
+  "view_order": 2,
+  "data_key": "WorkshopCollada",
+  "data_name": "DAE"
+}
