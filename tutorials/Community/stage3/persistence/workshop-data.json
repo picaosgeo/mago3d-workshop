@@ -1,0 +1,34 @@
+{
+  "attributes": {
+    "isPhysical": false,
+    "nodeType": " root ",
+    "projectType": "workshop",
+    "specularLighting": false
+  },
+  "children": [
+    {
+      "attributes": {
+        "isPhysical": true,
+        "nodeType": "WORKSHOP",
+        "flipYTexCoords": true
+      },
+      "children": [],
+      "data_group_id": 1,
+      "data_group_name": "WORKSHOP",
+      "mapping_type": "origin",
+      "data_key": "sample",
+      "data_name": "샘플",
+      "longitude": 127.9265465225572,
+      "latitude": 37.3677658743137,
+      "height": 39.0,
+      "heading": 0,
+      "pitch": 0,
+      "roll": 0
+    }
+  ],
+  "parent": 0,
+  "depth": 1,
+  "view_order": 2,
+  "data_key": "workshop",
+  "data_name": "WORKSHOP"
+}
