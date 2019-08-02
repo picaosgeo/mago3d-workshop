@@ -113,5 +113,7 @@
   "max_per_unit_points_render_dist_to_cam_more_than_1600m": 64,
   "max_point_size_for_pc": 40.0,
   "min_point_size_for_pc": 2.0,
-  "pendent_point_size_for_pc": 40.0
+  "pendent_point_size_for_pc": 40.0,
+  "minHeight_rainbow_loc": 140.0,
+  "maxHeight_rainbow_loc": 180.0
 }
