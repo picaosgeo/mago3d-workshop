@@ -1,13 +1,16 @@
 @charset "utf-8";
 
 html,
-body,
-#magoContainer {
+body {
   width: 100%;
   height: 100%;
   margin: 0;
   padding: 0;
   overflow: hidden;
+}
+
+#magoContainer {
+  height: 100%;
 }
 
 #objectLabel {
