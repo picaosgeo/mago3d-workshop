@@ -1,4 +1,4 @@
-＃mago3D Community Edition
+# mago3D Community Edition
 
 ### Install
  -  mago3D.JS：https://github.com/Gaia3D/mago3djs/releases
